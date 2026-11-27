@@ -1,0 +1,8 @@
+# Versions used for the verified Jupyter run (Python 3.13.5).
+# Colab: use preinstalled packages if compatible; no install cell required.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
+ipython
+jupyterlab
